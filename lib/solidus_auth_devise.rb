@@ -2,9 +2,9 @@
 
 require 'solidus_core'
 require 'solidus_support'
-require 'deface'
-require 'devise'
-require 'devise-encryptable'
+# require 'deface'
+# require 'devise'
+# require 'devise-encryptable'
 require 'cancan'
 
 require 'spree/auth/devise'
