@@ -2,6 +2,6 @@
 
 module Spree
   module Auth
-    VERSION = '2.5.3-mm'
+    VERSION = '2.5.3.9'
   end
 end
