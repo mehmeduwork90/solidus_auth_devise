@@ -5,7 +5,7 @@ require 'spree/auth/version'
 
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
-  s.name = "mm_solidus_auth_devise"
+  s.name = "solidus_auth_devise"
   s.version = Spree::Auth::VERSION
   s.summary = "Provides authentication and authorization services for use with Solidus by using Devise and CanCan."
   s.license = 'BSD-3-Clause'
